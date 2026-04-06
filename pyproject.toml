@@ -11,4 +11,5 @@ dependencies = [
     "plotly>=5.18.0",
     "pyzmq>=27.1.0",
     "statsmodels>=0.14.6",
+    "numpy>=2.4.3",
 ]
